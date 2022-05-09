@@ -1,3 +1,4 @@
 # BMI-Calculator
-This Flutter Application caluclate (Body mass index)BMI  
-![BMI](https://user-images.githubusercontent.com/69439108/167457206-05466606-014d-4a03-b339-3ef487b3971b.png)
+This simple Flutter Application caluclate (Body mass index)BMI  
+![BMI](https://user-images.githubusercontent.com/69439108/167457777-564e78c3-da95-42e2-975c-8e7b59d1b3f1.png)
+
